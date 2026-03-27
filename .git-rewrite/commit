@@ -1,0 +1,20 @@
+tree 6a86f73e06d4f47a6657959ab26fca698f77920b
+parent 5f9386719c68b1671616ec2d13fcc2a035af12d6
+parent 64c89cd3b344680dd9090f677f59a2a314501d1d
+author Slyke <steven.lawler777+github@gmail.com> 1624251544 -0700
+committer GitHub <noreply@github.com> 1624251544 -0700
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsBcBAABCAAQBQJg0ByYCRBK7hj4Ov3rIwAA2ecIAI7d3nOe9q/eLYHyU1FPlGN+
+ orwMv9/hgf3hiEpLsu/iTbrZYZiJ6Uq4Mmf7agN+LtaVbT6zR4LeD9u+FMpN3pLE
+ 0JntygQJEVnzudwPp1xwSxiyF8wNOqa9yzij0PN72XrTC8yMoPMf8jqu0gbHShBz
+ WgyBZXFb4g2DGq8hJa14ePr5/U5Ky1F5i4emsvjmIr0EoWz8BdlM5nmioHAnieC7
+ 0md/8ziZpWCzDuqhGUqdp+9shiX8/jm2r1Eu1pQgYqkAftfZx8ynRAnZfhixRBGD
+ 0/AZvJZpNsGVdqbfN7uthu3+FbDjgoF1vhzKag5vjrzFTkUilPW5/SNHDPZLjOM=
+ =LNSi
+ -----END PGP SIGNATURE-----
+ 
+
+Merge pull request #370 from Paraphraser/20210614-openhab-experimental
+
+openHAB - consistency fixes - experimental branch - 3 of 3
